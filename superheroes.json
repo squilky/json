@@ -1,0 +1,40 @@
+{
+  "squadName" : "Super hero squad",
+  "homeTown" : "Gotham City",
+  "formed" : 2016,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Spider Man",
+      "age" : 19,
+      "secretIdentity" : "Peter Parker",
+      "powers" : [
+        "Spider Sense",
+        "Spin a web",
+        "Climbing
+      ]
+    },
+    {
+      "name" : "Superman",
+      "age" : 30,
+      "secretIdentity" : "Clark Kent",
+      "powers" : [
+        "Ability to fly",
+        "Heat vision",
+        "Super Strength"
+      ]
+    },
+    {
+      "name" : "Iron Man",
+      "age" : 45,
+      "secretIdentity" : "Tony Stark",
+      "powers" : [
+        "Superhuman Reflexes",
+        "Regenerative Systems",
+        "Cybernetic Interface",
+        "Brain Power",
+      ]
+    }
+  ]
+}
